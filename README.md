@@ -1,5 +1,5 @@
 ![logo](https://github.com/Revant202/Revant202/blob/main/banner2.jpg)
-<h1 align="center">Hi 👋, I'm Revant Emany</h1>
+<h1 align="center">I'm Revant Emany</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 <h3 align="left">Connect with me:</h3>
